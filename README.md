@@ -50,8 +50,8 @@ Learning: `Java`, `Python`, `MySQL`, `Linux`, `Offensive Security`, `API Integra
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link-here](https://www.linkedin.com/in/luca-accomando-4a152b34a/))  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luca.accomando04@gmail.com)
 
 ---
 🧠 *“Keep learning, keep hacking (legally).”*
